@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+.first {
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.first-five div {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.first-five a {
+    text-decoration: none;
+    color: #333;
+}
+
+.one, .two {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.text-one-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .video-img {
+    max-width: 50%;
+    height: auto;
+  }
+  
+  .text {
+    flex: 1;
+    padding: 20px;
+  }
+
+.text-one-area {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.text-two-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.text-two-one-title, .text-two-two-title, .text-two-three-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.text-two-one-area, .text-two-two-area, .text-two-three-area {
+    line-height: 1.6;
+}
+
+.information {
+    background-color: #e5e5e5;
+    padding: 10px;
+}
+
+.rypen img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+.from, .what {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.img1 img, .imgone img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 50%;
+}
+
